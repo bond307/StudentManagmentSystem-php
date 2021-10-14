@@ -1,0 +1,53 @@
+#error {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 20px;
+}
+/* =================adminindex navbar==================== */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
+
+/* ================= end adminindex navbar==================== */
+.content {
+  min-height: 550px;
+}
+/* =================adminindex footer==================== */
+
+
+#footer1 {
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  background: #3ca9f8;
+  margin-top: 20px;
+}
+#footer1 p {
+  margin: 0;
+}
+/* =================End adminindex footer==================== */
